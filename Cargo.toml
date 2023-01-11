@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "interpreter",
+    "tests",
+
+    "ccore",
+    "ccore/parse",
+]
